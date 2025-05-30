@@ -4,9 +4,13 @@ ________________________________________________
 Sobre mi 
 
 👨‍💻Me llamo Joseph
+
+
 💻Futuro ing de Sistemas
    
 Tengo 18 años
+
+
 Quiero ser un dev mobile enfocado en Android (Kotlin)
 
 ________________________________________________
