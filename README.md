@@ -14,4 +14,4 @@ Tengo 18 años
 Quiero ser un dev mobile enfocado en Android (Kotlin)
 
 ________________________________________________
-🔍Aprendiendo Jetpack compose
+Mas info en: https://inksh4dow.github.io/Mipagina/
