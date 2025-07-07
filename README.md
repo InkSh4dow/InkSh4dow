@@ -1,17 +1,11 @@
 Hola wenas👋
 
 ________________________________________________
-Sobre mi 
 
-👨‍💻Me llamo Joseph
+Joseph | Dev Mobile & Web
 
-
-💻Futuro ing de Sistemas
-   
-Tengo 18 años
-
-
-Quiero ser un dev mobile enfocado en Android (Kotlin)
+Estudiante de Ingeniería de Sistemas - Kotlin Android & Web Dev
 
 ________________________________________________
+
 Mas info en: https://inksh4dow.github.io/Mipagina/
