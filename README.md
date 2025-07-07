@@ -16,9 +16,4 @@ Tecnologías que uso
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-7E4DD2?style=flat&logo=affinity-publisher&logoColor=white)
 
-### 🚧 Aprendiendo ahora
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-ED4A46?style=flat&logo=n8n&logoColor=white)
-
 Mas info en: https://inksh4dow.github.io/Mipagina/
