@@ -1,11 +1,24 @@
 Hola wenas👋
 
 ________________________________________________
-
 Joseph | Dev Mobile & Web
-
 Estudiante de Ingeniería de Sistemas - Kotlin Android & Web Dev
 
 ________________________________________________
+Tecnologías que uso
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-7E4DD2?style=flat&logo=affinity-publisher&logoColor=white)
+
+### 🚧 Aprendiendo ahora
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-ED4A46?style=flat&logo=n8n&logoColor=white)
 
 Mas info en: https://inksh4dow.github.io/Mipagina/
